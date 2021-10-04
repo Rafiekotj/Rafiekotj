@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rafiekotj
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning front-end web development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate and become more participatory in the community
 - 📫 How to reach me ...
 
 <!---
