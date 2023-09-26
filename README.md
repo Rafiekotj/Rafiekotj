@@ -3,12 +3,13 @@
 <h3>I'm Rafie Aliefa Khana Kotjek,</h3>
 <h4>but you can call me Rafie</h4>
 
-<p>I'm a junior front-end developer. I can use HTML, CSS, Javascript, Python, Java, and React JS and have experience with frameworks such as Material UI and CSS extensions like Sass. I decided to be a front-end developer because I'm interested in tech and like designing pages, so I started to pursue my career as a front-end developer. Currently studying at Bina Sarana Informatika University majoring in computer science.</p>
+<p>I'm a junior front-end developer. I can use HTML, CSS, Javascript, Python, Java, and React JS and have experience with frameworks such as Material UI and CSS extensions like Sass. I decided to be a front-end developer because I'm interested in tech and like designing pages, so I started to pursue my career as a front-end developer.</p>
 
 <h4>About me:</h4>
 
 - 👀 I’m interested in tech and programming
 - 🌱 I'm currently learning to be a front-end developer at Glints Academy
+- 🏫 I'm currently studying at Bina Sarana Informatika University majoring in computer science
 - 💞️ I’m looking to collaborate and become more participatory in the community
 - 📫 You can reach me by email at rafiekhana@gmail.com
 
