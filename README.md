@@ -10,10 +10,9 @@
 <h4>👦 About me:</h4>
 
 - 👀 I’m interested in tech and programming
-- 🌱 I'm currently learning to be a front-end developer at Glints Academy
+- 🌱 I'm learning to be a front-end developer at Glints Academy
 - 🏫 I'm currently studying at Bina Sarana Informatika University majoring in computer science
 - 💞️ I’m looking to collaborate and become more participatory in the community
-- 📫 You can reach me by email at rafiekhana@gmail.com
 
 <h4>🤝 Let's Connect</h4>
 
